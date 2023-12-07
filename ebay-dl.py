@@ -137,8 +137,6 @@ for page_number in range(1,int(args.num_pages)+1):
             'price' : Price
         }
         items.append(item)
-
-    
     
     print('len(tags_item)=', len(tags_items))
 
