@@ -8,5 +8,4 @@ python3 ebay-dl.py 'chess'
 python3 ebay-dl.py 'cruiser motorcycle'
 python3 ebay-dl.py 'neon sign'
 '''
-
 <a href='https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_03'> Ebay Instructions </a>
